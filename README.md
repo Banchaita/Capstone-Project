@@ -1,4 +1,5 @@
-And important notes I am not using Jupyter Notebook because Jupyter Notebook is not supported and I am using VS code. 
+
+# Important notes I am not using Jupyter Notebook because Jupyter Notebook is not supported and I am using VS code.
 
 
 To create a README file using the provided information, you can structure it as follows:
