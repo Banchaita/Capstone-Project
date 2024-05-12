@@ -1,3 +1,6 @@
+And important notes I am not using Jupyter Notebook because Jupyter Notebook is not supported and I am using VS code. 
+
+
 To create a README file using the provided information, you can structure it as follows:
 
 ---
@@ -5,7 +8,7 @@ To create a README file using the provided information, you can structure it as 
 # Predicting Property Prices in a Specific Location Using Machine Learning
 
 ## Introduction
-The real estate market is complex, influenced by numerous factors. This capstone project focuses on predicting property prices in a specific location using machine learning techniques. The aim is to provide valuable insights for real estate agents, buyers, and sellers.
+The real estate market is complex, and influenced by numerous factors. This capstone project focuses on predicting property prices in a specific location using machine learning techniques. The aim is to provide valuable insights for real estate agents, buyers, and sellers.
 
 ## Objectives
 1. **Data Collection and Cleaning:** Gather and preprocess real estate data.
